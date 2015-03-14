@@ -1,0 +1,1 @@
+VIM 7 plugin which provides commands to invoke various source control operations on the current file (either the current buffer, or, in the case of an directory buffer, the directory and all subdirectories associated with the current buffer).  The output of the commands is captured in a new scratch window.
